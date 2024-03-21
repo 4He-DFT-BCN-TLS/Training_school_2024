@@ -1,0 +1,6 @@
+&inputfile
+
+lplane="yz"
+Ldrawcirculations=.false.
+
+/
