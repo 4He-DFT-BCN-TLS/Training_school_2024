@@ -1,0 +1,18 @@
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+4hedft             00000000006737C1  Unknown               Unknown  Unknown
+4hedft             0000000000671F17  Unknown               Unknown  Unknown
+4hedft             000000000061D044  Unknown               Unknown  Unknown
+4hedft             000000000061CE56  Unknown               Unknown  Unknown
+4hedft             00000000005CBBA4  Unknown               Unknown  Unknown
+4hedft             00000000005D0007  Unknown               Unknown  Unknown
+libpthread.so.0    00007F805E309420  Unknown               Unknown  Unknown
+libmkl_avx2.so     00007F7EDE95F017  Unknown               Unknown  Unknown
+libmkl_avx2.so     00007F7EDE97B9F1  Unknown               Unknown  Unknown
+libmkl_avx2.so     00007F7EDE956204  Unknown               Unknown  Unknown
+libmkl_avx2.so     00007F7EDDFCAE3A  Unknown               Unknown  Unknown
+libmkl_avx2.so     00007F7EDE04E975  Unknown               Unknown  Unknown
+libmkl_avx2.so     00007F7EDDFCA728  Unknown               Unknown  Unknown
+libmkl_avx2.so     00007F7EDE0DBB6C  Unknown               Unknown  Unknown
+libmkl_intel_thre  00007F80608AA060  Unknown               Unknown  Unknown
+libiomp5.so        00007F805E52F893  Unknown               Unknown  Unknown
