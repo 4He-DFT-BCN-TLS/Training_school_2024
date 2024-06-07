@@ -15,12 +15,12 @@
 #SBATCH -J "Ar->Ar@He500"
 
 
-export OMP_NUM_THREADS=36
-export MKL_NUM_THREADS=36
-export OMP_PROC_BIND=true
-export WORKDIR=$(pwd)
+#export OMP_NUM_THREADS=36
+#export MKL_NUM_THREADS=36
+#export OMP_PROC_BIND=true
+#export WORKDIR=$(pwd)
 
-cd ${WORKDIR}
+#cd ${WORKDIR}
 
 
 echo "Execution starting"
@@ -31,6 +31,6 @@ echo "Execution finished"
 
 
 
-jobinfo ${SLURM_JOBID}
+#jobinfo ${SLURM_JOBID}
 
 
