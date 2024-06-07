@@ -25,7 +25,7 @@
 
 echo "Execution starting"
 #time srun -N 1 -n 1 -c 36 $(placement 1 36) ./4hedft < pure-4he1000.input > pure-4he1000.res 2> pure-4he1000.err
-time ./4hetddft-isotropic < Ak2He500.input > Ak2He500.res 2> Ak2He500.input.err
+time ./4hetddft-isotropic < Ar2He500.input > Ar2He500.res 2> Ar2He500.input.err
 date
 echo "Execution finished"
 
