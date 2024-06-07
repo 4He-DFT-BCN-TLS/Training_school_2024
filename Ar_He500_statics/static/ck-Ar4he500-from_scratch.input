@@ -5,10 +5,10 @@
 	ximp		= 0.0d0
 	yimp		= 0.0d0
 	zimp 		= 0.0d0
-	selec_gs	= 'Na_plus_Koutselos'
+	selec_gs	= 'Ar_He'
 	r_cutoff_gs	= 3.0d0 
 	umax_gs 	= 10.0E+03
-	title   	= 'Na_plus_Koutselos'
+	title   	= 'Collision Ar'
  	nthread		= 5
 	mode    	= 3
 	xmax 		= 57.6d0
