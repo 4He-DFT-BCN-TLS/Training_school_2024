@@ -4,8 +4,8 @@
   tzsurf = 2.d0
   N_imp = 1
   nthread = 20
-  title = '4He_1000 + Xe'
-  n4 = 1000
+  title = '4He_500 + Ar'
+  n4 = 500
   icurr = 0
   iter0 = 0
   time0 = 0
